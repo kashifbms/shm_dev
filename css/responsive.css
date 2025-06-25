@@ -1,0 +1,642 @@
+/* RESPONSIVE -Hospitality
+
+ * --------------------------------------- */
+
+ /* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  .desktop {
+    display: none!important;
+  }
+
+  .animated {
+    /*CSS transitions*/
+    -o-transition-property: none !important;
+    -moz-transition-property: none !important;
+    -ms-transition-property: none !important;
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    /*CSS transforms*/
+    -o-transform: none !important;
+    -moz-transform: none !important;
+    -ms-transform: none !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    /*CSS animations*/
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+  }
+
+  body, p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .logo img {
+    width:100%;
+  }
+
+  #header .container {
+   padding:5px 0;
+  }
+
+  #header .btn {
+    padding: 0;
+  }
+
+  #header .btn, .lang {
+    font-size:16px;
+  }
+
+  #header .menu {
+    padding:8px 0 0 0;
+    font-size:16px;
+  }
+
+  ul#menu {
+    width:220px;
+  }
+
+  #header .menu-item {
+    padding:.3em .5em;
+  }
+
+  #header .menu, #header .lang {
+    font-size:16px;
+    width:15%;
+  }
+
+  .section-title, .headline{
+    font-size:20px;
+    margin:10px 0;
+  }
+    .fp-tableCell {
+    padding-top:10%;
+  }
+
+  /* Section 0 */
+    .whitebox {
+      margin:0px;
+      height:100vh;
+      top: 0;
+    }
+
+    .tagline {    
+      width: 90%;
+      z-index: 999;
+      text-align:center;
+      padding: 30px 30px 80px 30px;
+      margin: 80px auto 0;
+      font-size:30px;
+    }
+
+    .main-image {
+      top: 18em;
+      z-index: 100;
+      height: 200px;
+      padding: 0 10px;
+      overflow: hidden;
+      box-shadow: none;
+    
+    }
+
+  /* Section 1 */
+
+    #section1 .headline {
+      margin-bottom:10px;
+    }
+
+  /* Section 2 */ 
+    
+    .speciality-content {
+      text-align:center;
+      margin-bottom: 20px;
+    }
+   
+
+  /* Section 3 */
+
+    .people-right {
+      margin-top: -130px;
+      height: 270px;
+
+    }
+
+    .people-image {
+       height: 270px;
+    }
+
+    .people-left {
+      text-align:center;
+    }
+
+  /* Section 4 */
+
+    .content-inner.expectations {
+      min-height:200px;
+      height:auto; 
+      width:100%; 
+    }
+
+    .content-left.expectations {
+       min-height:100px;
+       height:auto; 
+       margin-bottom:20px;
+    }
+
+    .row.expectations {
+      padding:30px 20px;
+      text-align:center;
+    }
+
+    .imageexpectations {
+      min-height: 100px;
+      height:200px;
+      overflow:hidden;
+    }
+
+    .imageexpectations img {
+      height: 40vh;
+      min-height: 100px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .content-right.expectations {
+      min-height:200px;
+      height:200px;
+      overflow:hidden;
+    }
+
+  /* Section 5 */
+
+    .content-inner.values {
+      width:100%;
+    }
+
+    .content-right.values {
+      float:none;
+    }
+
+    .content-left.values {
+      padding:0 20px;
+    }
+
+    .values-content {
+      float: none;
+      width: 100%;
+      text-align:center;
+      padding: 10px 10px 5px 10px;
+    }
+
+    .card-header .btn-link {
+      font-weight: 400;
+      color: #1f355e;
+      background-color: transparent;
+      font-size:18px;
+      width:100%;
+      text-align:left;
+    }
+
+  /* Section 6 */
+
+   
+    .footer {
+      padding-top:10%;
+    }
+
+    .content-left.contactbox{
+      padding:0px;
+    }
+
+    .content-right.contactbox {
+      padding:30px 0 0 0;
+      text-align:center;
+    }
+
+    .right-box {
+      margin-top:10%;
+      background:#151f2b;
+    }
+
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .animated {
+    /*CSS transitions*/
+    -o-transition-property: none !important;
+    -moz-transition-property: none !important;
+    -ms-transition-property: none !important;
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    /*CSS transforms*/
+    -o-transform: none !important;
+    -moz-transform: none !important;
+    -ms-transform: none !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    /*CSS animations*/
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+  }
+
+  .desktop {
+    display:none;
+  }
+
+  body, p {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  
+  .section-title, .headline{
+    font-size:30px;
+    margin:10px 0;
+  }
+
+  #header #menu {
+    font-size:16px;
+  }
+
+  #header .btn, .lang {
+    font-size:16px;
+  }
+
+ /* Section 0 */
+    .whitebox {
+      margin:0px;
+      height:100vh;
+      top: 0;
+    }
+
+    .tagline {    
+      width: 90%;
+      z-index: 999;
+      text-align:center;
+      padding: 30px 30px 80px 30px;
+      margin: 80px auto 0;
+      font-size:30px;
+    }
+
+    .main-image {
+      top: 18em;
+      z-index: 100;
+      height: 200px;
+      padding: 0 10px;
+      overflow: hidden;
+      box-shadow: none;
+    
+    }
+
+  /* Section 1 */
+
+    #section1 .headline {
+      margin-bottom:10px;
+    }
+
+  /* Section 2 */ 
+    
+    .speciality-content {
+      text-align:center;
+      margin-bottom: 20px;
+    }
+
+   
+
+  /* Section 3 */
+
+
+    img.img-responsive.img-fluid.peoplegroup.mobile {
+      width: 100%;
+      float: left;
+      position: absolute;
+      left:0;
+      border:0px;
+    }
+
+  /* Section 4 */
+
+    .content-inner.expectations {
+      min-height:200px;
+      height:auto; 
+      width:100%; 
+    }
+
+    .content-left.expectations {
+       min-height:100px;
+       height:auto; 
+       margin-bottom:20px;
+    }
+
+    .row.expectations {
+      padding:30px 20px;
+      text-align:center;
+    }
+
+    .imageexpectations {
+      min-height: 100px;
+      height:200px;
+      overflow:hidden;
+    }
+
+    .imageexpectations img {
+      height: auto!important;
+      min-height: 100px;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .content-right.expectations {
+      min-height:200px;
+      height:200px;
+      overflow:hidden;
+    }
+
+  /* Section 5 */
+
+    #section5 {
+      margin-bottom:15%;
+    }
+
+    .content-inner.values {
+      width:100%;
+    }
+
+    .content-right.values {
+      float:none;
+    }
+
+    .content-left.values {
+      padding:0 20px;
+    }
+
+    .values-content {
+      float: none;
+      width: 100%;
+      text-align:center;
+      padding: 10px 10px 5px 10px;
+    }
+
+    .card-header .btn-link {
+      font-weight: 400;
+      color: #1f355e;
+      background-color: transparent;
+      font-size:1em;
+      width:100%;
+      text-align:left;
+    }
+
+  /* Section 6 */
+
+    .content-left.contactbox {
+      padding-right:0px;
+    }
+
+    .copyright {
+      margin-top:15%;
+      line-height:14px;
+    }
+
+    p.footer-links {
+      margin-top: 20px;
+    }
+
+    #section6 .fp-tableCell {
+      padding:0 10%;
+    }
+
+    #section6 .fp-controlArrow.fp-next {
+      right:5px;
+      border-width: 18.5px 0 18.5px 14px;
+      border-color: transparent transparent transparent #fff;
+    }
+
+    #section6  .fp-controlArrow.fp-prev {
+      left: 5px;
+      border-width: 18.5px 14px 18.5px 0;
+      border-color: transparent #fff transparent transparent;
+    }
+
+    #section6 .fp-controlArrow {
+      top: 50%;
+    }
+
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait)  {
+
+  .mobile {
+    display:none!important;
+  }
+
+
+ .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+
+  body, p {
+    font-size:20px;
+    line-height:24px;
+  }
+
+  .section-title, .headline{
+    font-size:30px;
+    margin:10px 0;
+  }
+
+  .whitebox {
+  	margin-left:0px!important;
+  }
+
+  .sublogo {
+    width:50%;
+  }
+
+  .content-inner.expertise {
+    width:90%!important;
+  }
+
+  .content-inner.expectations {
+    width: 100%;
+    height:300px;
+   }
+
+  .values-content {
+    width:100%;
+    margin-top:20px;
+  }
+
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  body, p {
+    font-size:20px;
+    line-height:24px;
+  }
+
+  .section-title, .headline{
+    font-size:30px;
+    margin:10px 0;
+  }
+
+  .mobile {
+    display:none!important;
+  }
+
+ .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+  .content-inner.expectations {
+    width:100%;
+  }
+
+  .imageexpectations img{
+    height:50vh;
+    overflow:hidden;
+  }
+
+  #section6 {
+    background-size:contain;
+  }
+
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1279px) {
+  
+  .mobile {
+    display:none!important;
+  }
+
+  .mobile-tablet{
+    display:none!important;
+  }
+
+  .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+   .main-image {
+    height: 650px;
+  }
+
+}
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1280px) and (max-width: 1439px)  {
+  
+  .mobile {
+  	display:none;
+  }
+
+  .mobile-tablet {
+    display:none!important;
+  }
+
+  .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+  #section6 {
+    background-size:cover;
+  }
+
+  .main-image {
+    height: 85vh;
+    overflow:hidden;
+  }
+  
+}
+
+/* Desktop devices (min 1600px) */
+@media screen and (min-width: 1440px) {
+
+  .mobile {
+    display:none;
+  }
+  
+  .mobile-tablet {
+    display:none!important;
+  }
+
+  .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+  .main-image {
+    height:800px;
+    overflow-y:hidden;
+  }
+
+  .main-image img {
+    height:100vh;
+    overflow-y:hidden;
+  }
+
+
+  .listvalues {    
+    font-size: 22px;
+  }
+
+  .values-content {
+    width:95%;
+    padding:20px;
+  }
+
+  .inner-expertise, img.img-responsive.img-fluid.expertgroup {
+    min-height:550px;
+  }
+
+  .imagepeople img, 
+  .blue-bar {
+    min-height:500px;
+  }
+
+}

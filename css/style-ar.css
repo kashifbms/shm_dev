@@ -1,0 +1,264 @@
+@font-face {
+    font-family: "DINNextLTArabic-Light";
+    src: url(../fonts/DINNextLTArabic-Light.ttf) format("truetype");
+    src: local('☺'), url(../fonts/DINNextLTArabic-Light.ttf) format("truetype");
+}
+
+@font-face {   
+    font-family: "DINNextLTArabic-Regular";
+    src: url(../fonts/DINNextLTArabic-Regular.ttf) format("truetype");
+    src: local('☺'), url(../fonts/DINNextLTArabic-Regular.ttf) format("truetype");
+}
+
+body, p {
+	font-family: "DINNextLTArabic-Regular"!important;
+	direction: rtl !important;
+}
+
+h1,h2,h3,h4,h5,h6, .section-title, .headline, .subheadline {
+	letter-spacing: -1px !important;
+	font-family: "DINNextLTArabic-Regular"!important;
+	direction: rtl !important;
+}	
+
+.english { 
+  font-family: "FranziskaWebW03Book", "Times New Roman", Times, serif; }
+  
+
+#header .lang {
+  text-align:right;
+}
+
+#header .menu {
+  text-align:left;
+}
+
+#header .menu-item {
+  text-align:right!important;
+}
+
+.section-title {
+  letter-spacing: 4px;
+  font-size:34px;
+}
+
+.headline  {
+  font-size:34px;
+}
+
+.subheadline {
+  font-style:normal;
+  font-size:30px;
+}
+
+.whitebox {
+  margin-right: -40px;
+}
+
+.tagline {
+  text-align:right;
+  font-size:45px;
+}
+
+.card-header .btn-link {
+    text-align:right;
+}
+
+.card-header .btn-link i {
+    text-align: left;
+    float: left;
+}
+
+.content-left.expertise, 
+.content-left.contactbox, .content-right.contactbox, 
+.row.expectations, .listvalues,.speciality-content,
+.values-content {
+	text-align:right;
+}
+
+.card-body {
+      padding: 20px 50px 10px;
+}
+
+.people-left {
+  text-align:right;
+}
+
+.footer .dropdown a {
+	text-align:right;
+}
+
+.nav.specialty {
+    right:35%;
+}
+
+#btnservice11 .h6.service-bottom , #btnservice12 .h6.service-bottom {
+  bottom:-30px!important;
+}
+
+.speciality-services {
+  /*margin-top:40px;*/
+}
+
+a h6 {
+    font-size: 14px;
+}
+
+h6.service-bottom {
+  bottom: -45px;
+}
+
+h6.service-right {
+  text-align:right;
+  right: -105px
+}
+
+#btnservice9 h6.service-right {
+    margin-top: 10px;
+    right: -90px;
+}   
+
+#btnservice10 h6.service-right {
+   right: -70px;
+}   
+
+#btnservice8 h6.service-right {
+  margin-top:-10px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+	body, p {
+    font-size:16px;
+    line-height: 20px;
+  }
+
+  .section-title, .headline{
+      font-size:24px;
+  }
+
+  .whitebox{
+     margin-right:0px;
+  }
+
+  .tagline {
+    text-align:center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 36px;
+    padding-bottom: 150px;
+    font-size:32px;
+  }
+
+  .main-image {
+    top: 14em;
+  }
+
+	.blue-bar {
+		height:100vh;
+	}
+
+	.inner-people,.content-left.expertise, 
+	.row.expectations,.speciality-content,
+	.speciality-content h2.headline, .content-right.contactbox, .values-content {
+		text-align:center;
+	}
+
+  .inner-people {
+    height:480px;
+  }
+
+  #section5 {
+      margin-bottom:15%;
+  }
+
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .whitebox {
+    margin-right: 0px;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) { 
+  
+  h6.service-bottom {
+    bottom:-30px;
+  }
+
+}
+
+@media (min-width: 1280px) and (max-width: 1439px) {
+
+  .mobile {
+    display:none;
+  }
+  
+  .mobile-tablet{
+    display:none;
+  }
+
+  .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+  .nav.specialty {
+    top:170px;
+    right:35%;
+  }
+  .h6.service-bottom {
+    bottom:-30px;
+  }
+
+  .speciality-services {
+    /*margin-top:40px;*/
+  }
+
+}
+    
+@media screen and (min-width: 1440px) {
+
+  
+  .mobile {
+    display:none;
+  }
+  
+  .mobile-tablet{
+    display:none;
+  }
+
+  .speciality.mobile-tablet {
+    display:none!important;
+  }
+
+  .card-header .btn-link {
+    text-align: right;
+  }
+
+  .card-header .btn-link i {
+    float:left;
+  }
+
+  .speciality-services {
+  	/*margin-top:0px;*/
+  }
+
+  .nav.specialty {
+    top:170px;
+    right:35%;
+  }
+  
+  .h6.service-bottom {
+    bottom:-30px;
+  }
+
+  .speciality-services {
+    /*margin-top:40px;*/
+  }
+
+
+}
