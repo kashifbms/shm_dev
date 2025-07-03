@@ -13,26 +13,27 @@
 		<div class="section" id="section0">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 col-md-4 col-lg-4 col-xl-3 whitebox animated rollIn">
-						<h2 class="tagline">A leader in the world of Hospitality Management</h2>
+					<div class="col-xs-12 col-md-5 col-lg-4 col-xl-3 whitebox_new">
+						<h1 class="tagline">SINYAR Hospitality<span>EMIRATI HOME GROWN COMPANY</span></h1>
+						<h2 class="tagline">Leading the way to excellence in Hospitality Management.</h2>
 					</div>
-					<div class="col-xs-12 col-md-12 main-image animated flipInY">
-						<img class="img-responsive img-fluid box-shadow " src="imgs/img-main.jpg" alt="Hospitality"/>
-					</div>
+					
 				</div>
 			</div>
 		</div>
 
 		<div class="section second" id="section1">
 			<div class="container">
-				<div class="row is-animated">
+				<div class="row">
 					<div class="col-xs-12 col-md-12">
 						<h2 class="section-title">ABOUT US</h2>
-						<p>The hospitality field by definition a service industry, but at Sinyar Hospitality, it’s different philosophy.</p>
 						<h2 class="headline">We deliver personalized experience tailored to the individual requirements of each single property</h2>
-						<p style="margin-bottom:30px">We strive to be the leading name in the hospitality industry by bringing services to our clients that combine outstanding quality with extraordinary value. Sinyar Hospitality guarantees that you will “Discover Excellence”; we did it for other clients, now it is time we do it for you.</p>
+						<p style="margin-bottom:30px">Our Emirati company's history and heritage are deeply connected to the UAE's journey from a private hospitality hub to a global economic powerhouse.
+<br>
+Inspired by the spirit of Emirati hospitality, we serve together as a united nation.
+</p>
 						<p>Operating under the umbrella of</p>
-						<a href="http://www.sinyarholding.ae/">
+						<a href="http://www.sinyarholding.ae/" target="_blank">
 							<img class="img-responsive img-fluid sublogo is-animated" src="imgs/logo-holding.png" alt="Sinyar Holding" />
 						</a>
 					</div>
@@ -42,278 +43,97 @@
 
 		<div class="section third" id="section2">
 			<div class="container">
-				<div class="row is-animated">
-					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-5 speciality-content">
-						<h2 class="section-title">OUR SPECIALTY</h2>
-						<h2 class="subheadline">360⁰ services… 24/7</h2>
-						<p>Years of experience has taught us a great deal about building strong and long-lasting relationships with our clients. We have worked hard to achieve a superior level of customer satisfaction by paying attention to and understanding what our clients are looking for. </p>
-						<p>We view each service through the eyes of an owner, as if it was our own. We are a true value-creation company transparent to our clients, not just a hospitality management company. </p>
+				<div class="row">
+					<div class="col-xs-12 col-md-12">
+						<h2 class="section-title">WHAT WE DO</h2>
 					</div>
-
-					<div class="col-xs-12 col-sm-12 col-md-8 col-lg-7 speciality-services desktop">
-						<nav class="specialty">
-							<div id="droparea">
-								<div id="service0">
-								  	<h4 class="service-title">Our Speciality</h4>
-								  	<img class="service-image" src="./imgs/imgservice0.jpg" />
-								</div>
-								<div id="service1" style="display:none">
-								  	<h4 class="service-title">Food & Beverage</h4>
-								  	<img class="service-image" src="./imgs/imgservice1.jpg" />
-								</div>
-								<div id="service2" style="display:none">
-								  	<h4 class="service-title">Housekeeping</h4>
-								  	<img class="service-image" src="./imgs/imgservice2.jpg" />
-								</div>
-								<div id="service3" style="display:none">
-								  	<h4 class="service-title">Hygiene Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice3.jpg" />
-								</div>
-								<div id="service4" style="display:none">
-								  	<h4 class="service-title">Space Planning</h4>
-								  	<img class="service-image" src="./imgs/imgservice4.jpg" />
-								</div>
-								<div id="service5" style="display:none">
-								  	<h4 class="service-title">Laundry</h4>
-								  	<img class="service-image" src="./imgs/imgservice5.jpg" />
-								</div>
-								<div id="service6" style="display:none">
-								  	<h4 class="service-title">Shuttle & Valet Parking</h4>
-								  	<img class="service-image" src="./imgs/imgservice6.jpg" />
-								</div>
-								<div id="service7" style="display:none">
-								  	<h4 class="service-title">Administration: Operating Procedures Development</h4>
-								  	<img class="service-image" src="./imgs/imgservice7.jpg" />
-								</div>
-								<div id="service8" style="display:none">
-								  	<h4 class="service-title">Customer Service: Front Desk Coordination</h4>
-								  	<img class="service-image" src="./imgs/imgservice8.jpg" />
-								</div>
-								<div id="service9" style="display:none">
-								  	<h4 class="service-title">Fleet Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice9.jpg" />
-								</div>
-								<div id="service10" style="display:none">
-								  	<h4 class="service-title">Store Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice10.jpg" />
-								</div>
-								<div id="service11" style="display:none">
-								  	<h4 class="service-title">Event Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice11.jpg" />
-								</div>
-								<div id="service12" style="display:none">
-								  	<h4 class="service-title">Health & Safety Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice12.jpg" />
-								</div>
-								<div id="service13" style="display:none">
-								  	<h4 class="service-title">Flower & Internal Plant Arrangements</h4>
-								  	<img class="service-image" src="./imgs/imgservice13.jpg" />
-								</div>
-								 <div id="service14" style="display:none">
-								  	<h4 class="service-title">Specialized Procurement Management</h4>
-								  	<img class="service-image" src="./imgs/imgservice14.jpg" />
-								</div>
-							</div>
-							
-							<ul class="gallery">
-								<li id="btnservice1" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								
-								    	<img class="service-icon" src="./imgs/service1.png" />
-								    </a>
-								</li>
-								<li id="btnservice2" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								   		
-								        <img class="service-icon" src="./imgs/service2.png" />
-								    </a>
-								</li>
-								<li id="btnservice3" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        	<img class="service-icon" src="./imgs/service3.png" />
-								    </a>
-								</li>
-								<li id="btnservice4" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								     
-								        <img class="service-icon" src="./imgs/service4.png" />
-								    </a>
-								</li>	
-								<li id="btnservice5" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service5.png" />
-								    </a>
-								</li>
-								<li id="btnservice6" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service6.png" />
-								    </a>
-								</li>
-								<li id="btnservice7" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service7.png" />
-								    </a>
-								</li>
-								<li id="btnservice8" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								      
-								        <img class="service-icon" src="./imgs/service8.png" />
-								    </a>
-								</li>
-								<li id="btnservice9" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service9.png" />
-								    </a>
-								</li>
-								<li id="btnservice10" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service10.png" />
-								    </a>
-								</li>
-								<li id="btnservice11" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								        
-								        <img class="service-icon" src="./imgs/service11.png" />
-								    </a>
-								</li>
-								<li id="btnservice12" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								        
-								        <img class="service-icon" src="./imgs/service12.png" />
-								    </a>
-								</li>
-								<li id="btnservice13" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service13.png" />
-								    </a>
-								</li>
-								<li id="btnservice14" class="specialty-item d-flex align-items-center">
-									<a class="specialty-item" href="#">
-								       
-								        <img class="service-icon" src="./imgs/service14.png" />
-								    </a>
-								</li>
-							</ul>
-						</nav>
-					</div>
-
-					<div class="col-xs-12 speciality mobile-tablet">
-
-						<div class="service-box-left">
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service1.png" />
-								<h5>Food and Beverage</h5> 
-							</div>
-							<div class="servicebox">
-								 <img class="service-item-icon" src="./imgs/service2.png" />
-								<h5>Housekeeping</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service3.png" />
-								<h5>Hygiene Management</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service4.png" />
-								<h5>Space Planning</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service5.png" />
-								<h5>Laundry</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service6.png" />
-								<h5>Shuttle & Valet Parking</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service7.png" />
-								<h5>Administration: Operating Procedures Development</h5>
-							</div>
+				</div>
+				<div class="row" style="margin-bottom:30px" >
+					<div class="col-xs-12 col-md-12">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+							<img src="imgs/new/for_clients.jpg">
+							<h3>FOR CLIENTS</h3>
+							<p>Delivering smart, integrated hospitality solutions that boost revenue, refine brand identity and optimize operations.</p>
 						</div>
-						<div class="service-box-right">
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service8.png" />
-								<h5>Customer Service: Front Desk Coordination</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service9.png" />
-								<h5>Fleet Management</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service10.png" />
-								<h5>Store Management</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service11.png" />
-								<h5>Event Management</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service12.png" />
-								<h5>Health & Safety Management</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service13.png" />
-								<h5>Flower & Internal Plant Arrangements</h5>
-							</div>
-							<div class="servicebox">
-								<img class="service-item-icon" src="./imgs/service14.png" />
-								<h5>Specialized Procurement Management</h5>
-							</div>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+							<img src="imgs/new/for_employees.jpg">
+							<h3>FOR EMPLOYEES</h3>
+							<p>Building a culture that thrives on performance and growth, we help our people level up their expertise and engagement.</p>
 						</div>
-		
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+							<img src="imgs/new/for_supliers.jpg">
+							<h3>FOR SUPPLIERS & LOCAL COMMUNITIES</h3>
+							<p>Fostering meaningful partnerships through local sourcing initiatives and impactful community development programs.</p>
+						</div>
 					</div>
-
-				</div>	
+				</div>
 			</div>
+
 		</div>
+
 
 		<div class="section fourth" id="section3">
 			<div class="container">
-				<div class="row is-animated">
-					<h3 class="section-title desktop">OUR PEOPLE</h3>
-					<div class="col-xs-12 col-md-6 people-left ">
-						<h2 class="section-title white mobile">OUR PEOPLE</h2>
-						<h2 class="headline white">The secret to our enduring success</h2>
-						<p class="white">Sinyar Hospitality has the right team, tailored made services, and  records of accomplishment of constant adaptive reinvention and inner knowledge of best practices in the market.</p>
-						<p class="white">Our team offers impeccable personalized services to high-end clients based on solid knowledge of client’s expectations and proactive anticipation of their needs regardless of time constraints.</p>
-					</div>
-					<div class="col-xs-12 col-md-6 people-right">
-						<div class="people-image">
-							<img class="img-responsive img-fluid peoplegroup" src="imgs/people.jpg" />
+				<div class="row ">
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/icon_1.png">
+							<p>
+								<strong>OBJECTIVE</strong><br>
+								We create exceptional hospitality experiences that feel special and stand the test of time. With creativity, seamless operations and smart insight. We make every venue unique, memorable and built for success.
+
+							</p>
 						</div>
 					</div>
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/icon_2.png">
+							<p>
+								<strong>SOLUTION</strong><br>
+								We blend smart insights, standout concepts and unforgettable guest experiences to create thriving venues. We design spaces that feel good, run smoothly and stay ahead of the curve.
+
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="container-flex">
+				<div class="col-xs-12">
+					<img src="imgs/new/wwd_lg.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
 				</div>
 			</div>
 		</div>
 
 		<div class="section fifth" id="section4">
 			<div class="container">
-				<div class="row is-animated">
-					<h2 class="section-title desktop">EXPECTATIONS</h2>
-					<div class="content-inner expectations">
-						<div class="col-xs-12 col-md-6 content-left expectations">
-							<div class="row expectations">
-								<h2 class="section-title white mobile">EXPECTATIONS</h2>
-								<h2 class="headline white">Expect the best and look forward for more</h2>
-								<p class="white">Sinyar Hospitality is all about giving a unique, comfortable, and memorable experience.</p>
-							</div>
+				<div class="row audience-box">
+					<h2 class="section-title">PROJECT PORTFOLIO</h2>
+				</div>
+				<div class="row" style="margin-bottom:30px" >
+					<div class="col-xs-12 col-md-12 projects_wrapper">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+							<img src="imgs/new/project_01.jpg">
+							<p>Qasr Al Watan</p>
 						</div>
-
-						<div class="col-xs-12 col-md-6 content-right expectations">
-							<div class="row">
-								<div class="col-xs-8 col-md-7 imageexpectations">
-									<img class="img-responsive img-fluid" src="imgs/expertise.jpg" />
-								</div>
-								<div class="col-xs-1 col-md-2 blue-bar"></div>
-								<div class="col-xs-1 col-md-2 blue-bar"></div>
-							</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+							<img src="imgs/new/project_02.jpg">
+							<p>Abu Dhabi Airport</p>
 						</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+							<img src="imgs/new/project_03.jpg">
+							<p>Umm Al Emarat Park</p>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+							<img src="imgs/new/project_04.jpg">
+							<p>Private Hospitality</p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-12 projects_wrapper" >
+						<p style="margin-top: 10px; text-align: left; padding: 0 10px;">At the heart of Abu Dhabi, we have crafted extraordinary experiences that bridge cultural grandeur where elegance meets legacy.
+						<br><br>The Qasr Al Watan , Zayed International Airport, Umm Al Emarat Park and Private Hospitality projects redefine
+						excellence and showcase our commitment to delivering exceptional service.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -321,131 +141,338 @@
 
 		<div class="section sixth" id="section5">
 			<div class="container">
-				<div class="row is-animated">
-					<div class="content-inner values">
-
-						<h2 class="section-title">OUR VALUES</h2>
-
-						<div class="col-xs-12 col-md-6 content-right values mobile">
-							<div class="values-content">
-								<h2 class="headline">Our values have set the standards of how Sinyar Hospitality achieved company success</h2>
-								<p>They are the foundation in everything we do and how we do it. They have set us apart from our competitors and helped turn us into the company that we are today.</p>
-							</div>
-						</div>
-
-						<div class="col-xs-12 col-md-6 content-left values">
-							<div id="accordion">
-							  	<div class="card">
-								    <div class="card-header" id="headingOne">
-								     	<h4 class="mb-0">
-								        	<button class="btn btn-link values" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-								          	Loyalty <i class="fa fa-angle-down rotate-icon"></i>
-								       		</button>
-								      	</h4>
-								    </div>
-
-								    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-								      	<div class="card-body">
-								      		<ul class="listvalues">
-								      			<li>We are proud of our organization and represent it the best of possible ways</li>
-								      			<li>We make decisions that support our organization's best interest</li>
-								      			<li>We are driven by the company’s success</li>
-								      		</ul>
-								      	</div>
-						    		</div>
-						  		</div>
-	  							
-	  							<div class="card">
-								    <div class="card-header" id="headingTwo">
-								      	<h4 class="mb-0">
-								        <button class="btn btn-link values collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								          Growth & Improvement <i class="fa fa-angle-down rotate-icon"></i>
-								        </button>
-								      	</h4>
-								    </div>
-								    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-								      	<div class="card-body">
-									        <ul class="listvalues">
-									      		<li>We constantly explore creative and efficient ways of working</li>
-									      		<li>We commit to continuous improvement</li>
-									      		<li>We are focused on progress and promote growth and development</li>
-									      	</ul>
-								      	</div>
-								    </div>
-	  							</div>
-
-								<div class="card">
-								    <div class="card-header" id="headingThree">
-								      	<h4 class="mb-0">
-								        <button class="btn btn-link values collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-								          Accountability <i class="fa fa-angle-down rotate-icon"></i>
-								        </button>
-								      	</h4>
-								    </div>
-								    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-								      	<div class="card-body">
-									        <ul class="listvalues">
-									      		<li>We take ownership and are accountable for our actions</li>
-									      		<li>We readily accept new challenges</li>
-									      		<li>We are results oriented and follow through on actions</li>
-									      	</ul>
-								      	</div>
-								    </div>
-								</div>
-
-								<div class="card">
-								    <div class="card-header" id="headingFour">
-								     	<h4 class="mb-0">
-								        <button class="btn btn-link values collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-								          Teamwork & Integrity <i class="fa fa-angle-down rotate-icon"></i>
-								        </button>
-								      	</h4>
-								    </div>
-								    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-								      	<div class="card-body">
-									        <ul class="listvalues">
-									      		<li>We rely on each other and work as a team</li>
-									      		<li>We are professionals and treat each other with respect</li>
-									      		<li>We work with integrity and deliver on our commitments</li>
-									      	</ul>
-								      	</div>
-								    </div>
-								</div>
-
-								<div class="card">
-								    <div class="card-header" id="headingFive">
-								      	<h4 class="mb-0">
-								        <button class="btn btn-link values collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-								         Excellence <i class="fa fa-angle-down rotate-icon"></i>
-								        </button>
-								      	</h4>
-								    </div>
-								    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-								      	<div class="card-body">
-									        <ul class="listvalues">
-									      		<li>We provide a first class service to our clients</li>
-									      		<li>We are dedicated to our clients</li>
-									      		<li>We strive to constantly develop and grow our services</li>
-									      	</ul>
-								      	</div>
-								    </div>
-	  							</div>
-							</div>
-						</div>
-	 
-						<div class="col-xs-12 col-md-6 content-right values desktop">
-							<div class="values-content">
-								<h2 class="headline">Our values have set the standards of how Sinyar Hospitality achieved company success</h2>
-								<p>They are the foundation in everything we do and how we do it. They have set us apart from our competitors and helped turn us into the company that we are today.</p>
-							</div>
-						</div>
-
-					</div>
+				<div class="row">
+					<h2 class="section-title">OUR PROCESS</h2>
 				</div>
-			</div>		
+				<div class="row">
+					<div class="col-md-8 col-sm-12">
+						<div class="row">
+							<div class="col-xs-12 single_process">
+								<img src="imgs/new/our_process_01.png">
+								<p>
+									<strong>GROUNDWORK</strong><br>
+									We take the foundational steps to ensure its success planning, research, resource allocation and risk assessment.
+								</p>
+							</div>
+							<div class="col-xs-12 single_process">
+								<img src="imgs/new/our_process_02.png">
+								<p>
+									<strong>CONCEPT</strong><br>
+									We tailor the idea to align it with preferences, brand identity, cultural influences and market needs.
+								</p>
+							</div>
+							<div class="col-xs-12 single_process">
+								<img src="imgs/new/our_process_03.png">
+								<p>
+									<strong>CREATE</strong><br>
+									We define the brands identity, values, and positioning. We create the essence of its connectivity with the target audience.
+								</p>
+							</div>
+							<div class="col-xs-12 single_process">
+								<img src="imgs/new/our_process_04.png">
+								<p>
+									<strong>IMPLEMENT</strong><br>
+									We transform ideas into game changing success stories and profitable ventures.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-12 img_bg" style="background-image: url(imgs/new/our_process_bg.jpg); background-repeat: no-repeat; background-size: cover;">
+						
+					</div>
+					
+				</div>
+			</div>
 		</div>
 
 		<div class="section seven" id="section6">
+			<div class="container">
+				<div class="row">
+					<h2 class="section-title">OUR SERVICES</h2>
+				</div>
+				<div class="row ">
+					<div class="col-md-8 col-sm-12">
+						<div class="row our_services_wrapper">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_01.png">
+								<h3>Hospitality Management</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_02.png">
+								<h3>Fine Dining Experiences</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_03.png">
+								<h3>Brand Strategy & Positioning</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_04.png">
+								<h3>Recreation & Wellness</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_05.png">
+								<h3>Performance & Quality Management</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_06.png">
+								<h3>Health & Safety</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_07.png">
+								<h3>Concierge & Lifestyle</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_08.png">
+								<h3>Risk & Compliance</h3>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+								<img src="imgs/new/services_09.png">
+								<h3>Private Events & Celebrations</h3>
+							</div>
+							
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-12 img_bg_1" style="background-image: url(imgs/new/services_bg.jpg); background-repeat: no-repeat; background-size: cover;">
+						
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="section eight" id="section7">
+			<div class="container">
+				<div class="row">
+					<h2 class="section-title">CONCEPT CREATION</h2>
+				</div>
+				<div class="row ">
+					<div class="col-xs-12 col-md-12 ">
+						<div class="">
+							<p>
+								From boutique hideaways to iconic landmarks, we craft venues with personality ones that speak to the right audience and reinforce the brand’s identity.
+								<br><br>We help brands stand out and stay memorable with powerful storytelling.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container-flex">
+				<div class="col-xs-12">
+					<img src="imgs/new/concept_creation.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
+				</div>
+			</div>
+		</div>
+		<div class="section nine" id="section8">
+			<div class="container">
+				<div class="row audience-box">
+					<h2 class="section-title">LIFESTYLE & EVENTS</h2>
+					<h3>PRIVATE & CORPORATE</h3>
+				</div>
+				<div class="row" style="margin-bottom:30px" >
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+						<img src="imgs/new/events_01.jpg">
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+						<img src="imgs/new/events_02.jpg">
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+						<img src="imgs/new/events_03.jpg">
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
+						<img src="imgs/new/events_04.jpg">
+					</div>
+					<div class="col-xs-12">
+						<p style="margin-top: 20px;">
+							Crafting lifestyle & events ones that reflect personal elegance, unforgettable moments and bring visions to life.
+							<br><br>From high profile gatherings to immersive experiences, we curate, plan and execute events that leave a lasting impression.
+						</p>
+					</div>	
+						
+				</div>
+				</div>
+		</div>
+		
+		<div class="section ten" id="section9">
+			<div class="container">
+				<div class="row">
+					<h2 class="section-title">SPECIAL OCCASIONS</h2>
+				</div>
+				<div class="special_occasion_wrapper">
+					<div class="half_div">
+						<h3 style="text-align: left;">From intimate gatherings to grand celebrations, we deliver meaningful handcrafted concepts, that capture emotions and reflect personal stories.</h3>
+					</div>
+					<div class="half_div">
+						<img src="imgs/new/special_ocassion.jpg">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section" id="section10">
+			<div class="container">
+				<div class="row">
+					<h2 class="section-title">CULINARY DELIGHTS</h2>
+				</div>
+				<div class="special_occasion_wrapper">
+					
+					<div class="half_div">
+						<img src="imgs/new/culniry.jpg">
+					</div>
+					<div class="half_div">
+						<h3 style="text-align: left;">We craft culinary delights with precision, bringing joy through taste, presentation and cultural significance, offering a unique sensory experience.</h3>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="section" id="section11">
+			<div class="container">
+				<div class="row">
+					<div class="content-inner values">
+						<h2 class="section-title">SUSTAINABILITY & CORPORATE RESPONSIBILITY</h2>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row ">
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/sus_01.png">
+							<p><strong>LOCAL SOURCING PRACTICES</strong><br>Engaging in responsible procurement & local sourcing to support regional economies and minimize ecological footprints.</p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/sus_02.png">
+							<p><strong>ETHICAL WORKFORCE PRACTICES</strong>
+							<br>Promoting ethical labor practices that empower employees and enhance service excellence.</p>
+						</div>
+					</div>
+					
+					
+				</div>
+				<div class="row ">
+					
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/sus_03.png">
+							<p><strong>SUSTAINABLE OPERATIONS</strong>
+							<br>Deploying sustainable operational practices that reduce environmental impact.</p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-6 ">
+						<div class="img_txt_wrapper">
+							<img src="imgs/new/sus_04.png">
+							<p><strong>STRATEGIC SUSTAINABLE COLLABORATION</strong>
+							<br>Collaborating with governmental and industry bodies to drive compliance, innovation and best practices in sustainability.</p>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="container-flex">
+				<div class="col-xs-12">
+					<img src="imgs/new/csr.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
+				</div>
+			</div>
+		</div>
+
+		<div class="section nine" id="section8">
+			<div class="container">
+				<div class="row">
+					<div class="content-inner values">
+						<h2 class="section-title">OUR TEAM</h2>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="our_team_main">
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/bertrand_rousseau.jpg">
+							<p>
+								Bertrand Rousseau<br>
+								Vertical Chief Executive Officer
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/wafik_yousef.jpg">
+							<p>
+								Wafik Yousef<br>
+								Chief Executive Officer
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/talal_al_hashmi.jpg">
+							<p>
+								Talal Al Hashmi<br>
+								Senior Vice President Strategy & Governmental Affairs
+
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/elliot_ruse.jpg">
+							<p>
+								Elliot Ruse<br>
+								Business Development Director
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/alina_filat.jpg">
+							<p>
+								Alina Filat<br>
+								General Manager
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/lalchhanhimi_sailo.jpg">
+							<p>
+								Lalchhanhimi Sailo<br>
+								Housekeeping Director
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/zoriana_gonska.jpg">
+							<p>
+								Zoriana Gonska<br>
+								Food & Beverage Director
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/emily_smith.jpg">
+							<p>
+								Emily Smith<br>
+								Food Safety & Quality Assurance Manager
+							</p>
+						</div>
+					</div>
+					<div class="team_column">
+						<div class="our_team_wrapper">
+							<img src="imgs/new/team/mohit_bhargave.jpg">
+							<p>
+								Mohit Bhargave<br>
+								Executive Chef
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="section ten" id="footer">
 			<div class="container footer">
 				<div class="row is-animated">
 
@@ -473,15 +500,14 @@
 								P.O. Box: 4983, Abu Dhabi <br />
 								United Arab Emirates <br />
 								Office Phone No. <a href="tel:+97122088666">+97122088666</a> <br />
-								Office Fax No. <a href="tel:+97122088665">+97122088665</a> <br />
 								Toll Free (800SINYAR) <a href="tel:800746927">800746927</a> <br />
 								Email <a href="mailto:info@sinyarhospitality.ae">info@sinyarhospitality.ae</a>
 							</p>
-							<p class="map-button"><a class="directionbutton" href="#popup1">View Map Location</a></p>
-							<p class="copyright">© Sinyar Hospitality 2018-2021. <br/>All Rights Reserved.</p>
+							<p class="map-button"><a class="directionbutton" href="https://maps.app.goo.gl/R4aWt1yxeEqNS7VA6" target="_blank">View Map Location</a></p>
+							<p class="copyright">© Sinyar Hospitality 2018-2025. <br/>All Rights Reserved.</p>
 							<p class="footer-links">
-								<a href="http://www.sinyarholding.ae/" style="color:#ffffff;">Sinyar Holding</a> | 
-								<a href="http://www.sinyarpropertymanagement.ae/" style="color:#ffffff;">Sinyar Property</a>
+								<a href="http://www.sinyarholding.ae/" target="_blank" style="color:#ffffff;">Sinyar Holding</a> | 
+								<a href="http://www.sinyarpropertymanagement.ae/" target="_blank" style="color:#ffffff;">Sinyar Property</a>
 							</p>
 						</div>
 					</div>

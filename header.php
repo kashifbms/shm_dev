@@ -16,15 +16,25 @@
 				    		<ul id="menu">
 								<li data-menuanchor="sinyar" class="active menu-item"><a href="#sinyar">Sinyar Hospitality</a></li>
 								<li data-menuanchor="about" class="menu-item"><a href="#about">About Us</a></li>
-								<li data-menuanchor="specialty" class="menu-item"><a href="#specialty">Our Specialty</a></li>
-								<li data-menuanchor="people" class="menu-item"><a href="#people">Our People</a></li>
-								<li data-menuanchor="expectation" class="menu-item"><a href="#expectation">Expectations</a></li>
-								<li data-menuanchor="values" class="menu-item"><a href="#values">Our Values</a></li>
+								<li data-menuanchor="whatwedo" class="menu-item"><a href="#whatwedo">What We Do</a></li>
+								<li data-menuanchor="portfolio" class="menu-item"><a href="#portfolio">Project Portfolio</a></li>
+								<li data-menuanchor="process" class="menu-item"><a href="#process">Our Process</a></li>
+								<li data-menuanchor="services" class="menu-item"><a href="#services">Our Services</a></li>
+								<li data-menuanchor="concept" class="menu-item"><a href="#concept">Concept Creation</a></li>
+								<li data-menuanchor="lifestyleevents" class="menu-item"><a href="#lifestyleevents">Lifestyle & Events</a></li>
+								<li data-menuanchor="specialoccasion" class="menu-item"><a href="#specialoccasion">Special Occasions</a></li>
+								<li data-menuanchor="culinary" class="menu-item"><a href="#culinary">Culinary Delights</a></li>
+								<li data-menuanchor="csr" class="menu-item"><a href="#csr">Sustainability & CSR</a></li>
+								<li data-menuanchor="ourteam" class="menu-item"><a href="#ourteam">Our Team</a></li>
+								<li data-menuanchor="contact" class="menu-item"><a href="#contact">Contact Us</a></li>
+								<li class="menu-item" style="display: none !important;">
+									Subsidiaries
+									<ul>
+										<li class="menu-item property"><a href="http://www.sinyarpropertymanagement.ae/">Sinyar Property Management</a></li>
+										<li class="menu-item holding"><a href="http://www.sinyarholding.ae/">Sinyar Holding</a></li>
+									</ul>
+								</li>
 								
-								<li data-menuanchor="contactus" class="menu-item"><a href="#contactus">Contact Us</a></li>
-								<li class="menu-item">Subsidiaries</li>
-								<li class="menu-item property"><a href="http://www.sinyarpropertymanagement.ae/">Sinyar Property Management</a></li>
-								<li class="menu-item holding"><a href="http://www.sinyarholding.ae/">Sinyar Holding</a></li>
 							</ul>
 					  	</div>
 					</div>

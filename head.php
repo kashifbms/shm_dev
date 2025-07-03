@@ -34,41 +34,7 @@
         ?>
     </style>
 
-    <!-- Disable Right-Click and Developer Tools -->
-    <script>
-        // Disable right-click
-        document.addEventListener('contextmenu', function (e) {
-            e.preventDefault();
-            
-        });
 
-        // Disable common keyboard shortcuts
-        document.addEventListener('keydown', function (e) {
-            // Disable F12
-            if (e.key === "F12") {
-                e.preventDefault();
-            }
-            // Disable Ctrl+Shift+I
-            if (e.ctrlKey && e.shiftKey && e.key === 'I') {
-                e.preventDefault();
-            }
-            // Disable Ctrl+U
-            if (e.ctrlKey && e.key === 'u') {
-                e.preventDefault();
-            }
-        });
-
-        // Developer tools detection warning
-        (function() {
-            const element = new Image();
-            Object.defineProperty(element, 'id', {
-                get: function() {
-                    return '';
-                }
-            });
-            console.log(element);
-        })();
-    </script>
 </head>
 
 <body>

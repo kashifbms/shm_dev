@@ -96,7 +96,9 @@
       margin: 80px auto 0;
       font-size:30px;
     }
-
+    .whitebox_new h1.tagline, .whitebox_new .tagline{
+      padding: 20px;
+    }
     .main-image {
       top: 18em;
       z-index: 100;
@@ -228,6 +230,43 @@
 
 }
 
+@media screen and (max-width: 768px){
+  .single_unit_wwd h3, .single_service h3, .value_added h3{
+      font-size: 18px;
+  }
+  .single_unit_wwd{
+    margin-top: 40px;
+  }
+  .projects_wrapper div:nth-child(3){
+    clear: left;
+  }
+  .single_service li, .value_added li, .value_added p{
+    font-size: inherit;
+  }
+  .img_txt_wrapper img{
+    max-width: 40px;
+  }
+  #section6{
+    margin-bottom: 0%;
+  }
+  .our_team_wrapper img{
+    max-width: 100%;
+  }
+  .our_team_main{
+    gap: 20px;
+  }
+  .our_team_main .team_column{
+    flex: 0 0 calc(50% - 10px);
+    box-sizing: border-box;
+  }
+  .special_occasion_wrapper{
+    gap: 30px;
+  }
+  .special_occasion_wrapper .half_div{
+    flex: 0 0 100%;
+  }
+}
+
 
 /* 
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
@@ -265,7 +304,9 @@
     font-size: 18px;
     line-height: 24px;
   }
-  
+  .single_unit_wwd h3{
+    font-size: 18px;
+  }
   .section-title, .headline{
     font-size:30px;
     margin:10px 0;

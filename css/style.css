@@ -4,12 +4,12 @@ html {
 
 @font-face {
   font-family: "FranziskaWebW03Book";
-  src: url(/fonts/FranziskaWebW03Book.ttf) format("truetype");
+  src: url(../fonts/FranziskaWebW03Book.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "FranziskaWebW03Light";
-  src: url(/fonts/FranziskaWebW03Light.ttf) format("truetype");
+  src: url(../fonts/FranziskaWebW03Light.ttf) format("truetype");
 }
 
 @font-face {
@@ -210,7 +210,42 @@ button#dropdownMenuButton:active{
   #header .menu-item.holding {
     background:#1c2b39;
   }
-
+.whitebox_new{
+    z-index:99;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .whitebox_new span{
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+  }
+  .whitebox_new .tagline{
+    text-align: center !important;
+  }
+  .whitebox_new h1.tagline{
+    text-align: center !important;
+    line-height: 30px;
+  }
+  .whitebox {
+    z-index:99;
+    position: absolute;
+    margin-left: -40px;
+    top: 10em;
+  }
+  img{
+    max-width: 100%;
+  }
+  .tagline {
+    background:  rgba(225,225,225,0.8);
+    padding: 30px 20px;
+    text-align: left;
+    font-size:40px;
+  }
 /* Centered texts in each section
 * --------------------------------------- */
   .fp-tableCell {
@@ -232,8 +267,10 @@ button#dropdownMenuButton:active{
  * --------------------------------------- */
 
   #section0{
-  	background-image: url(../imgs/backgroundcolored.jpg);
+  	background-image: url(../imgs/new/main1.jpg);
     background-size:cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
   }
 
   #section0 .fp-tableCell {
@@ -250,12 +287,80 @@ button#dropdownMenuButton:active{
 
   .tagline {
     background:  rgba(225,225,225,0.8);
-    padding: 30px;
+    padding: 30px 20px;
     text-align: left;
-    font-size: 45px;
+    font-size: 40px;
      font-family: "FranziskaWebW03Book", "Times New Roman", Times, serif;
   }
+  .single_unit_wwd{
 
+  }
+  .single_project{
+    text-align: left;
+  }
+  .single_project p{
+    font-size: 15px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 0;
+    align-items: flex-start;
+  }
+   .single_project img{
+    margin-bottom: 10px;
+   }
+  .img_txt_wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    text-align: left;
+    gap: 30px;
+  }
+  .our_services_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .single_service{
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  .single_service li{
+    font-size: 19px;
+  }
+   .single_service > img{
+    max-width: 40px;
+    margin-bottom: 5px;
+   }
+  .img_bg{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .img_bg_1{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .value_added{
+    text-align: left;
+  }
+  .value_added li, .value_added p{
+    font-size: 20px;
+  }
+  .single_service h3{
+    margin-top: 0px;
+  }
+  .special_occasion_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 50px;
+  }
+  .special_occasion_wrapper .half_div{
+    flex: 1;
+    box-sizing: border-box;
+    
+  }
   .main-image {
     padding:0;
     min-height:400px;
@@ -610,7 +715,7 @@ button#dropdownMenuButton:active{
 
 /* Section 6 Contact
  * --------------------------------------- */
-  #section6{
+  #footer{
     background-image: url(../imgs/bgcontact.jpg);
      background-size:cover;
   }
@@ -787,6 +892,38 @@ button#dropdownMenuButton:active{
   #reason option:checked {
     color: #fff;
   }
+
+.single_process{
+  display: flex;
+  text-align: left;
+  gap: 30px;
+  align-items: center;
+}
+.single_process img{
+  max-width: 47px;
+}
+
+/* our team */
+
+.our_team_main{
+  display: flex;
+  flex-wrap: wrap;
+      justify-content: center;
+}
+.our_team_wrapper img{
+  max-width: 210px;
+}
+.our_team_wrapper p{
+  font-size: 19px;
+  line-height: normal;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.our_team_main .team_column{
+  flex: 0 0 20%;
+  box-sizing: border-box;
+}
+
 
 /* Internet Exlorer */
 

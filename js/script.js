@@ -10,8 +10,8 @@ $(document).ready(function() {
       $isAnimatedSeven = $('.seven .is-animated');
 
   $('#fullpage').fullpage({
-    anchors: ['sinyar', 'about', 'specialty', 'people', 'expectation', 'values', 'contactus', 'location'],
-    sectionsColor: ['#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#152d54'],   
+    anchors: ['sinyar', 'about', 'whatwedo', 'excellence', 'portfolio', 'process', 'services', 'concept', 'lifestyleevents', 'specialoccasion', 'culinary', 'csr', 'ourteam', 'contact'],
+    sectionsColor: ['#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#152d54'],   
     css3: true,
     navigation: false,
     responsiveWidth: 600,
