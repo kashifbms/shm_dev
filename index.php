@@ -52,17 +52,17 @@
 				</div>
 				<div class="row" style="margin-bottom:30px" >
 					<div class="col-xs-12 col-md-12">
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd text_align_left">
 							<img src="imgs/new/for_clients.jpg">
 							<p><strong>FOR CLIENTS</strong></p>
 							<p>Delivering smart, integrated hospitality solutions that boost revenue, refine brand identity and optimize operations.</p>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd text_align_left">
 							<img src="imgs/new/for_employees.jpg">
 							<p><strong>FOR EMPLOYEES</strong></p>
 							<p>Building a culture that thrives on performance and growth, we help our people level up their expertise and engagement.</p>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd text_align_left">
 							<img src="imgs/new/for_supliers.jpg">
 							<p><strong>FOR SUPPLIERS & LOCAL COMMUNITIES</strong></p>
 							<p>Fostering meaningful partnerships through local sourcing initiatives and impactful community development programs.</p>
@@ -190,62 +190,63 @@
 			</div>
 		</div>
 
-		
-
-		<div class="section seven" id="section6">
+		<div class="section second  " id="section6">
 			<div class="container">
-				<div class="row">
-					<h2 class="section-title" style="text-align: left;">OUR SERVICES</h2>
-				</div>
-				<div class="row ">
-					<div class="col-md-8 col-sm-12">
-						<div class="row our_services_wrapper">
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_01.png">
-								<h3>Hospitality Management</h3>
+				<div class="row flex-row">
+					<div class="col-xs-12 col-md-6 text_align_left">
+						<h2 class="section-title">OUR SERVICES</h2>
+						<div class="row">
+							<div class="col-md-12 col-sm-12">
+								<div class="row our_services_wrapper">
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_01.png">
+										<h3>Hospitality Management</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_02.png">
+										<h3>Fine Dining Experiences</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_03.png">
+										<h3>Brand Strategy & Positioning</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_04.png">
+										<h3>Recreation & Wellness</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_05.png">
+										<h3>Performance & Quality Management</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_06.png">
+										<h3>Health & Safety</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_07.png">
+										<h3>Concierge & Lifestyle</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_08.png">
+										<h3>Risk & Compliance</h3>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
+										<img src="imgs/new/services_09.png">
+										<h3>Private Events & Celebrations</h3>
+									</div>
+									
+								</div>
 							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_02.png">
-								<h3>Fine Dining Experiences</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_03.png">
-								<h3>Brand Strategy & Positioning</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_04.png">
-								<h3>Recreation & Wellness</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_05.png">
-								<h3>Performance & Quality Management</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_06.png">
-								<h3>Health & Safety</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_07.png">
-								<h3>Concierge & Lifestyle</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_08.png">
-								<h3>Risk & Compliance</h3>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-								<img src="imgs/new/services_09.png">
-								<h3>Private Events & Celebrations</h3>
-							</div>
-							
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-12 img_bg_1" style="background-image: url(imgs/new/services_bg.jpg); background-repeat: no-repeat; background-size: cover;">
-						
+					<div class="col-xs-12 col-md-6">
+						<img class="" src="imgs/new/our-services.png" alt="Sinyar Holding" />
 					</div>
-					
 				</div>
 			</div>
 		</div>
+
+		
 		<div class="section fourth blue_bg dark_bg padding_bottom_0 " id="concept_creation">
 			<div class="container text_align_left">
 				<div class="row">
