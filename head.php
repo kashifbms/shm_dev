@@ -11,7 +11,7 @@
     <meta name="keywords" content="Hospitality management in Abu Dhabi, hospitality management company, best hospitality management company in UAE" />
     <meta name="Resource-type" content="Document" />
     <link rel="shortcut icon" href="favicon.png">
-    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" /> -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="css/animation.css" />
     <link rel="stylesheet" type="text/css" href="fontawesome/css/fontawesome-all.css" />

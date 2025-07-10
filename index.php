@@ -11,37 +11,39 @@
 	<div id="fullpage">
 
 		<div class="section" id="section0">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 col-md-5 col-lg-4 col-xl-3 whitebox_new">
+			<div class="main_slider">
+				<div class="text_side column_qual">
+					<div class="internal_text whitebox_new">
 						<h1 class="tagline">SINYAR Hospitality<span>EMIRATI HOME GROWN COMPANY</span></h1>
-						<h2 class="tagline">Leading the way to excellence in Hospitality Management.</h2>
+						<h3 class="">Leading the way to excellence in Hospitality Management.</h3>
 					</div>
 					
 				</div>
+				<div class="image_side column_qual" style="background-image: url(imgs/new/main_lg_1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center;">
+					<!-- <img class="" src="imgs/new/main_lg_1.jpg" alt="Sinyar Holding" /> -->
+				</div>
 			</div>
 		</div>
 
-		<div class="section second" id="section1">
+		<div class="section second our_company_wrapper blue_bg dark_bg" id="section1">
 			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 col-md-12">
-						<h2 class="section-title">ABOUT US</h2>
-						<h2 class="headline">We deliver personalized experience tailored to the individual requirements of each single property</h2>
+				<div class="row flex-row">
+					<div class="col-xs-12 col-md-6 text_align_left">
+						<h2 class="section-title">OUR COMPANY HISTORY</h2>
 						<p style="margin-bottom:30px">Our Emirati company's history and heritage are deeply connected to the UAE's journey from a private hospitality hub to a global economic powerhouse.
-<br>
-Inspired by the spirit of Emirati hospitality, we serve together as a united nation.
-</p>
-						<p>Operating under the umbrella of</p>
-						<a href="http://www.sinyarholding.ae/" target="_blank">
-							<img class="img-responsive img-fluid sublogo is-animated" src="imgs/logo-holding.png" alt="Sinyar Holding" />
-						</a>
+						<br><br>
+						Inspired by the spirit of Emirati hospitality, we serve together as a united nation.
+						</p>
+						
+					</div>
+					<div class="col-xs-12 col-md-6">
+						<img class="" src="imgs/new/about_us.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="section third" id="section2">
+		<div class="section third " id="section2">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 col-md-12">
@@ -52,17 +54,17 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 					<div class="col-xs-12 col-md-12">
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
 							<img src="imgs/new/for_clients.jpg">
-							<h3>FOR CLIENTS</h3>
+							<p><strong>FOR CLIENTS</strong></p>
 							<p>Delivering smart, integrated hospitality solutions that boost revenue, refine brand identity and optimize operations.</p>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
 							<img src="imgs/new/for_employees.jpg">
-							<h3>FOR EMPLOYEES</h3>
+							<p><strong>FOR EMPLOYEES</strong></p>
 							<p>Building a culture that thrives on performance and growth, we help our people level up their expertise and engagement.</p>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 single_unit_wwd">
 							<img src="imgs/new/for_supliers.jpg">
-							<h3>FOR SUPPLIERS & LOCAL COMMUNITIES</h3>
+							<p><strong>FOR SUPPLIERS & LOCAL COMMUNITIES</strong></p>
 							<p>Fostering meaningful partnerships through local sourcing initiatives and impactful community development programs.</p>
 						</div>
 					</div>
@@ -72,12 +74,12 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 		</div>
 
 
-		<div class="section fourth" id="section3">
+		<div class="section fourth blue_bg dark_bg padding_bottom_0" id="objectives">
 			<div class="container">
 				<div class="row ">
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/icon_1.png">
+						<div class="img_txt_wrapper objective_icon">
+							<img src="imgs/new/objective_1.png">
 							<p>
 								<strong>OBJECTIVE</strong><br>
 								We create exceptional hospitality experiences that feel special and stand the test of time. With creativity, seamless operations and smart insight. We make every venue unique, memorable and built for success.
@@ -86,8 +88,8 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 						</div>
 					</div>
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/icon_2.png">
+						<div class="img_txt_wrapper objective_icon">
+							<img src="imgs/new/objective_2.png">
 							<p>
 								<strong>SOLUTION</strong><br>
 								We blend smart insights, standout concepts and unforgettable guest experiences to create thriving venues. We design spaces that feel good, run smoothly and stay ahead of the curve.
@@ -99,9 +101,10 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 				</div>
 			</div>
 			<div class="container-flex">
-				<div class="col-xs-12">
-					<img src="imgs/new/wwd_lg.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
+				<div class="full_width_bg_img">
+
 				</div>
+			
 			</div>
 		</div>
 
@@ -138,57 +141,61 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 				</div>
 			</div>
 		</div>
-
-		<div class="section sixth" id="section5">
+		<div class="section second our_company_wrapper blue_bg dark_bg" id="our_process">
 			<div class="container">
-				<div class="row">
-					<h2 class="section-title">OUR PROCESS</h2>
-				</div>
-				<div class="row">
-					<div class="col-md-8 col-sm-12">
+				<div class="row flex-row">
+					<div class="col-xs-12 col-md-6 text_align_left">
+						<h2 class="section-title">OUR PROCESS</h2>
 						<div class="row">
-							<div class="col-xs-12 single_process">
-								<img src="imgs/new/our_process_01.png">
-								<p>
-									<strong>GROUNDWORK</strong><br>
-									We take the foundational steps to ensure its success planning, research, resource allocation and risk assessment.
-								</p>
+							<div class="col-md-12 col-sm-12">
+								<div class="row">
+									<div class="col-xs-12 single_process">
+										<img src="imgs/new/our_process_01_white.png">
+										<p>
+											<strong>GROUNDWORK</strong><br>
+											We take the foundational steps to ensure its success planning, research, resource allocation and risk assessment.
+										</p>
+									</div>
+									<div class="col-xs-12 single_process">
+										<img src="imgs/new/our_process_02_white.png">
+										<p>
+											<strong>CONCEPT</strong><br>
+											We tailor the idea to align it with preferences, brand identity, cultural influences and market needs.
+										</p>
+									</div>
+									<div class="col-xs-12 single_process">
+										<img src="imgs/new/our_process_03_white.png">
+										<p>
+											<strong>CREATE</strong><br>
+											We define the brands identity, values, and positioning. We create the essence of its connectivity with the target audience.
+										</p>
+									</div>
+									<div class="col-xs-12 single_process">
+										<img src="imgs/new/our_process_04_white.png">
+										<p>
+											<strong>IMPLEMENT</strong><br>
+											We transform ideas into game changing success stories and profitable ventures.
+										</p>
+									</div>
+								</div>
 							</div>
-							<div class="col-xs-12 single_process">
-								<img src="imgs/new/our_process_02.png">
-								<p>
-									<strong>CONCEPT</strong><br>
-									We tailor the idea to align it with preferences, brand identity, cultural influences and market needs.
-								</p>
-							</div>
-							<div class="col-xs-12 single_process">
-								<img src="imgs/new/our_process_03.png">
-								<p>
-									<strong>CREATE</strong><br>
-									We define the brands identity, values, and positioning. We create the essence of its connectivity with the target audience.
-								</p>
-							</div>
-							<div class="col-xs-12 single_process">
-								<img src="imgs/new/our_process_04.png">
-								<p>
-									<strong>IMPLEMENT</strong><br>
-									We transform ideas into game changing success stories and profitable ventures.
-								</p>
-							</div>
+							
 						</div>
-					</div>
-					<div class="col-md-4 col-sm-12 img_bg" style="background-image: url(imgs/new/our_process_bg.jpg); background-repeat: no-repeat; background-size: cover;">
 						
 					</div>
-					
+					<div class="col-xs-12 col-md-6">
+						<img class="" src="imgs/new/our_process_main1.png" alt="Sinyar Holding" />
+					</div>
 				</div>
 			</div>
 		</div>
 
+		
+
 		<div class="section seven" id="section6">
 			<div class="container">
 				<div class="row">
-					<h2 class="section-title">OUR SERVICES</h2>
+					<h2 class="section-title" style="text-align: left;">OUR SERVICES</h2>
 				</div>
 				<div class="row ">
 					<div class="col-md-8 col-sm-12">
@@ -239,8 +246,8 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 				</div>
 			</div>
 		</div>
-		<div class="section eight" id="section7">
-			<div class="container">
+		<div class="section fourth blue_bg dark_bg padding_bottom_0 " id="concept_creation">
+			<div class="container text_align_left">
 				<div class="row">
 					<h2 class="section-title">CONCEPT CREATION</h2>
 				</div>
@@ -256,11 +263,14 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 				</div>
 			</div>
 			<div class="container-flex">
-				<div class="col-xs-12">
-					<img src="imgs/new/concept_creation.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
+				<div class="full_width_bg_img concept_creation">
+
 				</div>
+			
 			</div>
 		</div>
+
+		
 		<div class="section nine" id="section8">
 			<div class="container">
 				<div class="row audience-box">
@@ -280,7 +290,7 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 single_unit_wwd single_project">
 						<img src="imgs/new/events_04.jpg">
 					</div>
-					<div class="col-xs-12">
+					<div class="col-xs-12 text_align_left">
 						<p style="margin-top: 20px;">
 							Crafting lifestyle & events ones that reflect personal elegance, unforgettable moments and bring visions to life.
 							<br><br>From high profile gatherings to immersive experiences, we curate, plan and execute events that leave a lasting impression.
@@ -290,92 +300,79 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 				</div>
 				</div>
 		</div>
-		
-		<div class="section ten" id="section9">
+		<div class="section second our_company_wrapper blue_bg dark_bg" id="special_occasions">
 			<div class="container">
-				<div class="row">
-					<h2 class="section-title">SPECIAL OCCASIONS</h2>
-				</div>
-				<div class="special_occasion_wrapper">
-					<div class="half_div">
-						<h3 style="text-align: left;">From intimate gatherings to grand celebrations, we deliver meaningful handcrafted concepts, that capture emotions and reflect personal stories.</h3>
+				<div class="row flex-row">
+					<div class="col-xs-12 col-md-6 text_align_left">
+						<h2 class="section-title">SPECIAL OCCASIONS</h2>
+						<p>From intimate gatherings to grand celebrations, we deliver meaningful handcrafted concepts, that capture emotions and reflect personal stories.</p>
 					</div>
-					<div class="half_div">
-						<img src="imgs/new/special_ocassion.jpg">
+					<div class="col-xs-12 col-md-6">
+						<img class="" src="imgs/new/special_ocassion1.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="section" id="section10">
+		<div class="section second  " id="culinary_delights">
 			<div class="container">
-				<div class="row">
-					<h2 class="section-title">CULINARY DELIGHTS</h2>
-				</div>
-				<div class="special_occasion_wrapper">
+				<div class="row flex-row">
 					
-					<div class="half_div">
-						<img src="imgs/new/culniry.jpg">
+					<div class="col-xs-12 col-md-6">
+						<img class="" src="imgs/new/culniry1.png" alt="Sinyar Holding" />
 					</div>
-					<div class="half_div">
-						<h3 style="text-align: left;">We craft culinary delights with precision, bringing joy through taste, presentation and cultural significance, offering a unique sensory experience.</h3>
-					</div>
+					<div class="col-xs-12 col-md-6 text_align_left">
+						<h2 class="section-title">CULINARY DELIGHTS</h2>
+						<p>We craft culinary delights with precision, bringing joy through taste, presentation and cultural significance, offering a unique sensory experience.</p>					</div>
 				</div>
 			</div>
 		</div>
-
-		<div class="section" id="section11">
-			<div class="container">
+		
+		<div class="section fourth blue_bg dark_bg padding_bottom_0 sustainability_wrapper" id="sustainability">
+			<div class="container text_align_left">
 				<div class="row">
-					<div class="content-inner values">
-						<h2 class="section-title">SUSTAINABILITY & CORPORATE RESPONSIBILITY</h2>
-					</div>
+					<h2 class="section-title">SUSTAINABILITY & CORPORATE RESPONSIBILITY</h2>
 				</div>
-			</div>
-			<div class="container">
 				<div class="row ">
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/sus_01.png">
+						<div class="img_txt_wrapper sus_icon">
+							<img src="imgs/new/sus_01_white.png">
 							<p><strong>LOCAL SOURCING PRACTICES</strong><br>Engaging in responsible procurement & local sourcing to support regional economies and minimize ecological footprints.</p>
 						</div>
 					</div>
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/sus_02.png">
+						<div class="img_txt_wrapper sus_icon">
+							<img src="imgs/new/sus_02_white.png">
 							<p><strong>ETHICAL WORKFORCE PRACTICES</strong>
 							<br>Promoting ethical labor practices that empower employees and enhance service excellence.</p>
 						</div>
 					</div>
-					
-					
 				</div>
-				<div class="row ">
+				<div class="row " style="margin-top:30px" >
 					
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/sus_03.png">
+						<div class="img_txt_wrapper sus_icon">
+							<img src="imgs/new/sus_03_white.png">
 							<p><strong>SUSTAINABLE OPERATIONS</strong>
 							<br>Deploying sustainable operational practices that reduce environmental impact.</p>
 						</div>
 					</div>
 					<div class="col-xs-12 col-md-6 ">
-						<div class="img_txt_wrapper">
-							<img src="imgs/new/sus_04.png">
+						<div class="img_txt_wrapper sus_icon">
+							<img src="imgs/new/sus_04_white.png">
 							<p><strong>STRATEGIC SUSTAINABLE COLLABORATION</strong>
 							<br>Collaborating with governmental and industry bodies to drive compliance, innovation and best practices in sustainability.</p>
 						</div>
 					</div>
-					
 				</div>
 			</div>
 			<div class="container-flex">
-				<div class="col-xs-12">
-					<img src="imgs/new/csr.jpg" style="max-width: 100%; display: block; margin: auto; margin-top: 30px;">
+				<div class="full_width_bg_img sustainability">
+
 				</div>
+			
 			</div>
 		</div>
-
-		<div class="section nine" id="section8">
+		<div class="section nine" id="section8" style="display: none !important;">
 			<div class="container">
 				<div class="row">
 					<div class="content-inner values">
@@ -520,7 +517,7 @@ Inspired by the spirit of Emirati hospitality, we serve together as a united nat
 
 <?php include 'footer.php';?>
 
-<a href="https://sinyarhospitality.ae/QAW/EmergencyContacts.pdf" target="_blank">Download or View PDF</a>
+<a href="https://sinyarhospitality.ae/QAW/EmergencyContacts.pdf" target="_blank" style="display: none;">Download or View PDF</a>
 
 </body>
 </html>

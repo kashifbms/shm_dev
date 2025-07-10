@@ -29,6 +29,9 @@ h6, h5, h4, h4, h3, h2, h1{
   font-family: "FranziskaWebW03Book", "Times New Roman", Times, serif !important;
 	color:#1f355e!important;
 }
+html, body {
+  height: 100%;
+}
 
 body, p {
   font-family: "FranziskaWebW03Light", "Times New Roman", Times, serif;
@@ -50,6 +53,100 @@ a:hover {
     text-decoration: none!important;
     color: #595959!important;
 }
+
+/* NEW */
+
+#section0{
+ 
+}
+.section{
+  padding: 80px 0;
+  clear: both;
+}
+#section0.section{
+  padding: 0;
+}
+.main_slider{
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.column_qual{
+  flex: 1;
+  position: relative;
+}
+.image_side{
+  height: 100%;
+}
+.image_side img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.text_side{
+  
+  display: flex;
+  justify-content: center;
+}
+.internal_text{
+  max-width: 500px;
+}
+.no_padding_top{
+  padding-top: 0 !important;
+}
+.full_width_bg_img{
+  width: 100%;
+  height: 300px;
+  background-image: url(../imgs/new/wwd_lg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 30px;
+}
+.full_width_bg_img.concept_creation{
+  background-image: url(../imgs/new/concept_creation_bg.jpg);
+}
+.full_width_bg_img.sustainability{
+  background-image: url(../imgs/new/sustainability.jpg);
+}
+.our_company_wrapper{
+  background-image: url(../imgs/new/dark_bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  padding: 90px 0;
+}
+.blue_bg{
+  background-image: url(../imgs/new/dark_bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  padding: 90px 0;
+}
+.flex-row{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.dark_bg{
+  color: #fff;
+}
+.dark_bg *{
+  color: #fff !important;
+}
+.text_align_left *{
+  text-align: left !important;
+  
+}
+.padding_bottom_0{
+  padding-bottom: 0 !important;
+}
+/* END NEW */
 
 .white {
   color:#fff!important;
@@ -89,8 +186,12 @@ a:hover {
 .tright{
   text-align: right;
 }
-
-
+#footer{
+  padding: 150px 0;
+}
+.sus_icon img, .objective_icon img{
+  max-width: 70px;
+}
 
 /* Fixed header
 * --------------------------------------- */
@@ -211,13 +312,13 @@ button#dropdownMenuButton:active{
     background:#1c2b39;
   }
 .whitebox_new{
-    z-index:99;
+    /*z-index:99;
     margin: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: center; */
   }
   .whitebox_new span{
     font-size: 25px;
@@ -241,7 +342,7 @@ button#dropdownMenuButton:active{
     max-width: 100%;
   }
   .tagline {
-    background:  rgba(225,225,225,0.8);
+    /* background:  rgba(225,225,225,0.8); */
     padding: 30px 20px;
     text-align: left;
     font-size:40px;
@@ -267,10 +368,10 @@ button#dropdownMenuButton:active{
  * --------------------------------------- */
 
   #section0{
-  	background-image: url(../imgs/new/main1.jpg);
+  	/* background-image: url(../imgs/new/main1.jpg);
     background-size:cover;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: bottom; */
   }
 
   #section0 .fp-tableCell {
@@ -286,14 +387,14 @@ button#dropdownMenuButton:active{
   }
 
   .tagline {
-    background:  rgba(225,225,225,0.8);
+    /* background:  rgba(225,225,225,0.8); */
     padding: 30px 20px;
     text-align: left;
     font-size: 40px;
      font-family: "FranziskaWebW03Book", "Times New Roman", Times, serif;
   }
-  .single_unit_wwd{
-
+  .single_unit_wwd img{
+    margin-bottom: 10px;
   }
   .single_project{
     text-align: left;
@@ -373,8 +474,8 @@ button#dropdownMenuButton:active{
 /* Section 1 - About
  * --------------------------------------- */
   #section1 {
-    background-image: url(../imgs/graybg.jpg);
-    background-size:cover;
+    /*background-image: url(../imgs/graybg.jpg);
+    background-size:cover; */
   }
 
   #section1 .headline {
@@ -900,7 +1001,7 @@ button#dropdownMenuButton:active{
   align-items: center;
 }
 .single_process img{
-  max-width: 47px;
+  max-width: 70px;
 }
 
 /* our team */
