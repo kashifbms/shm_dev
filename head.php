@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="css/animation.css" />
     <link rel="stylesheet" type="text/css" href="fontawesome/css/fontawesome-all.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=3.21" />
     <link rel="stylesheet" type="text/css" href="css/responsive.css" />
     <link rel="shortcut icon" href="/favicon.png">
     
