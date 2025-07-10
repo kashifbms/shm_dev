@@ -12,7 +12,7 @@
 
 	<!-- <script type="text/javascript" src="js/script.js"></script> -->
 
-	<script>
+<script>
   document.addEventListener('DOMContentLoaded', function () {
     const menuLinks = document.querySelectorAll('a[href^="#"]');
 
@@ -24,12 +24,16 @@
         const targetElement = document.getElementById(targetId);
 
         if (targetElement) {
-          targetElement.scrollIntoView({
-            behavior: 'smooth',
-            block: 'start'
+          const yOffset = -83; // Negative offset for fixed menu
+          const y = targetElement.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
+          window.scrollTo({
+            top: y,
+            behavior: 'smooth'
           });
         }
       });
     });
   });
 </script>
+
