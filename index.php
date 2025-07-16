@@ -10,16 +10,19 @@
 
 	<div id="fullpage">
 
-		<div class="section blue_bg dark_bg" id="section0">
+		<div class="section " id="section0">
 			<div class="main_slider">
 				<div class="text_side column_qual">
 					<div class="internal_text whitebox_new">
-						<h1 class="tagline FranziskaWebW03Light uppercase">SINYAR Hospitality<span>EMIRATI HOME GROWN COMPANY</span></h1>
+						<h1 class="tagline FranziskaWebW03Light">
+							SINYAR HOSPITALITY
+							<span>Emirati home grown company</span>
+						</h1>
 						<h3 class="">Leading the way to excellence in Hospitality Management.</h3>
 					</div>
 					
 				</div>
-				<div class="image_side column_qual" style="background-image: url(imgs/new/main_lg_1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center;">
+				<div class="image_side column_qual" style="background-image: url(imgs/new/main_lg_1.jpg); background-repeat: no-repeat; background-size: cover; background-position: top;">
 					<!-- <img class="" src="imgs/new/main_lg_1.jpg" alt="Sinyar Holding" /> -->
 				</div>
 			</div>

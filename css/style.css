@@ -73,6 +73,7 @@ a:hover {
   height: 100vh;
   box-sizing: border-box;
   overflow: hidden;
+  background-color: #fbfbfb;
 }
 .column_qual{
   flex: 1;
@@ -203,13 +204,15 @@ a:hover {
   	height: auto;
   	display:block;
   	width: 100%;
-  	background: #1f355e;
+  	background: #dbd9d6;
   	z-index:9;
   	text-align:center;
   	color: #fff;
   	padding: 0;
     top:0px;
     transition: all 0.2s ease-in-out;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   #header .container {
@@ -236,7 +239,7 @@ a:hover {
   .logo img {
     margin-left:auto;
     margin-right:auto;
-    width:60%;
+    max-width: 300px;
   }
 
   .lang{
@@ -325,8 +328,9 @@ button#dropdownMenuButton:active{
   }
   .whitebox_new span{
     font-size: 25px;
-    display: inline-block;
+    display: block;
     text-align: left;
+    line-height: normal;
   }
   .whitebox_new h3{
     text-align: left;
@@ -336,7 +340,7 @@ button#dropdownMenuButton:active{
   }
   .whitebox_new h1.tagline{
     text-align: left !important;
-    line-height: 30px;
+    
   }
   .whitebox {
     z-index:99;
@@ -352,7 +356,7 @@ button#dropdownMenuButton:active{
     /* background:  rgba(225,225,225,0.8); */
     padding: 30px 0px;
     text-align: left;
-    font-size:45px;
+    font-size:65px;
   }
 /* Centered texts in each section
 * --------------------------------------- */
@@ -399,7 +403,7 @@ button#dropdownMenuButton:active{
     /* background:  rgba(225,225,225,0.8); */
     padding: 30px 0px;
     text-align: left;
-    font-size: 45px;
+    font-size: 65px;
      font-family: "FranziskaWebW03Book", "Times New Roman", Times, serif;
   }
   .single_unit_wwd img{

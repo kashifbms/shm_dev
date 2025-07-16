@@ -41,7 +41,7 @@
 
 				<div class="col-md-6 col-xs-8 logo">
 					<a href="#sinyar">
-						<img class="logo img-responsive img-fluid" src="imgs/logo-hospitality.png" />
+						<img class="logo img-responsive img-fluid" src="imgs/sym_logo.png" />
 					</a>
 				</div>
 
@@ -61,7 +61,7 @@
 
 				<div class="col-md-6 col-xs-8 logo">
 					<a href="#sinyar">
-						<img class="logo img-responsive img-fluid" src="imgs/logo-hospitality.png" />
+						<img class="logo img-responsive img-fluid" src="imgs/sym_logo.png" />
 					</a>
 				</div>
 				
