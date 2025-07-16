@@ -58,7 +58,7 @@ if(isset($_POST['send']))
         oninput="setCustomValidity('')"  required>
         <textarea name="contact" class="form-control" placeholder="<?php echo ($lang == "en" ? "Message" : "الرسالة") ?>" oninvalid="this.setCustomValidity('<?php echo ($lang == "en" ? "This is a required field" : "الرجاء ملئ جميع الفراغات") ?>')"
         oninput="setCustomValidity('')" required></textarea>
-        <input type='submit' name='send' class="send-now-btn" value='<?php echo ($lang == "en" ? "Send Now" : "أرسل ") ?>'>
+        <input type='submit' name='send' class="send-now-btn" value='<?php echo ($lang == "en" ? "Submit" : "أرسل ") ?>'>
 	</div>
 </form>
 

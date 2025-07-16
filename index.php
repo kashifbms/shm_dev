@@ -10,11 +10,11 @@
 
 	<div id="fullpage">
 
-		<div class="section" id="section0">
+		<div class="section blue_bg dark_bg" id="section0">
 			<div class="main_slider">
 				<div class="text_side column_qual">
 					<div class="internal_text whitebox_new">
-						<h1 class="tagline">SINYAR Hospitality<span>EMIRATI HOME GROWN COMPANY</span></h1>
+						<h1 class="tagline FranziskaWebW03Light uppercase">SINYAR Hospitality<span>EMIRATI HOME GROWN COMPANY</span></h1>
 						<h3 class="">Leading the way to excellence in Hospitality Management.</h3>
 					</div>
 					
@@ -37,7 +37,7 @@
 						
 					</div>
 					<div class="col-xs-12 col-md-6">
-						<img class="" src="imgs/new/about_us.png" alt="Sinyar Holding" />
+						<img class="featured_image" src="imgs/new/about_us.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
@@ -184,7 +184,7 @@
 						
 					</div>
 					<div class="col-xs-12 col-md-6">
-						<img class="" src="imgs/new/our_process_main1.png" alt="Sinyar Holding" />
+						<img class="featured_image" src="imgs/new/our_process_main1.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
@@ -240,7 +240,7 @@
 						</div>
 					</div>
 					<div class="col-xs-12 col-md-6">
-						<img class="" src="imgs/new/our-services.png" alt="Sinyar Holding" />
+						<img class="featured_image" src="imgs/new/our-services.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
@@ -250,7 +250,10 @@
 		<div class="section fourth blue_bg dark_bg padding_bottom_0 " id="concept_creation">
 			<div class="container text_align_left">
 				<div class="row">
-					<h2 class="section-title">CONCEPT CREATION</h2>
+					<div class="col-xs-12 col-md-12 ">
+						<h2 class="section-title">CONCEPT CREATION</h2>
+					</div>
+					
 				</div>
 				<div class="row ">
 					<div class="col-xs-12 col-md-12 ">
@@ -309,7 +312,7 @@
 						<p>From intimate gatherings to grand celebrations, we deliver meaningful handcrafted concepts, that capture emotions and reflect personal stories.</p>
 					</div>
 					<div class="col-xs-12 col-md-6">
-						<img class="" src="imgs/new/special_ocassion1.png" alt="Sinyar Holding" />
+						<img class="featured_image" src="imgs/new/special_ocassion1.png" alt="Sinyar Holding" />
 					</div>
 				</div>
 			</div>
@@ -319,7 +322,7 @@
 				<div class="row flex-row">
 					
 					<div class="col-xs-12 col-md-6">
-						<img class="" src="imgs/new/culniry1.png" alt="Sinyar Holding" />
+						<img class="featured_image" src="imgs/new/culniry1.png" alt="Sinyar Holding" />
 					</div>
 					<div class="col-xs-12 col-md-6 text_align_left">
 						<h2 class="section-title">CULINARY DELIGHTS</h2>
@@ -331,7 +334,10 @@
 		<div class="section fourth blue_bg dark_bg padding_bottom_0 sustainability_wrapper" id="sustainability">
 			<div class="container text_align_left">
 				<div class="row">
-					<h2 class="section-title">SUSTAINABILITY & CORPORATE RESPONSIBILITY</h2>
+					<div class="col-xs-12 col-md-12 ">
+						<h2 class="section-title">SUSTAINABILITY & CORPORATE RESPONSIBILITY</h2>
+					</div>
+					
 				</div>
 				<div class="row ">
 					<div class="col-xs-12 col-md-6 ">
@@ -348,7 +354,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row " style="margin-top:30px" >
+				<div class="row margin_t_30_desk" >
 					
 					<div class="col-xs-12 col-md-6 ">
 						<div class="img_txt_wrapper sus_icon">
@@ -486,7 +492,7 @@
 					<div class="col-xs-12 col-md-6 left-box">
 						<div class="content-left contactbox ">
 							<h2 class="section-title white">Get in touch with us</h2>
-							<p class="white">We welcome all feedback. Please enter your details below and then click send.  A member of our team will get back to you.</p>
+							<p class="white">For general enquiries or to connect with us, kindly complete the form below and a member of our team will respond shortly.</p>
 							<?php include 'contact.php';?>
 						</div>
 					</div>
@@ -497,16 +503,15 @@
 							<p class="white">
 								P.O. Box: 4983, Abu Dhabi <br />
 								United Arab Emirates <br />
-								Office Phone No. <a href="tel:+97122088666">+97122088666</a> <br />
-								Toll Free (800SINYAR) <a href="tel:800746927">800746927</a> <br />
+								Office Phone No. <a href="tel:+9718177777">+971 817 7777</a> <br />
 								Email <a href="mailto:info@sinyarhospitality.ae">info@sinyarhospitality.ae</a>
 							</p>
 							<p class="map-button"><a class="directionbutton" href="https://maps.app.goo.gl/R4aWt1yxeEqNS7VA6" target="_blank">View Map Location</a></p>
-							<p class="copyright">© Sinyar Hospitality 2018-2025. <br/>All Rights Reserved.</p>
+							
 							<p class="footer-links">
-								<a href="http://www.sinyarholding.ae/" target="_blank" style="color:#ffffff;">Sinyar Holding</a> | 
-								<a href="http://www.sinyarpropertymanagement.ae/" target="_blank" style="color:#ffffff;">Sinyar Property</a>
+								<a href="http://www.sinyarpropertymanagement.ae/" target="_blank" style="color:#ffffff;">Sinyar Property Management</a>
 							</p>
+							<p class="copyright">© All Rights Reserved. Sinyar Hospitality 2018-2025.</p>
 						</div>
 					</div>
 
