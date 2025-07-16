@@ -24,7 +24,7 @@
         const targetElement = document.getElementById(targetId);
 
         if (targetElement) {
-          const yOffset = -83; // Negative offset for fixed menu
+          const yOffset = -66; // Negative offset for fixed menu
           const y = targetElement.getBoundingClientRect().top + window.pageYOffset + yOffset;
 
           window.scrollTo({

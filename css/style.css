@@ -51,13 +51,16 @@ a:hover {
   .btn-link.focus, 
   .btn-link:focus {
     text-decoration: none!important;
-    color: #595959!important;
+    color: #1f355e!important;
 }
 
 /* NEW */
 
 #section0{
  
+}
+.footer_link_color{
+  color: #6dbaff;
 }
 .section{
   padding: 80px 0;
@@ -204,7 +207,7 @@ a:hover {
   	height: auto;
   	display:block;
   	width: 100%;
-  	background: #dbd9d6;
+  	background: #ffffff;
   	z-index:9;
   	text-align:center;
   	color: #fff;
@@ -250,7 +253,7 @@ a:hover {
 
   /* Dropdown Button */
   #header .btn {
-    color: white;
+    color: #1f355e;
     border: none;
     background: none;
     padding: 6px 0;
@@ -448,7 +451,7 @@ button#dropdownMenuButton:active{
     font-size: 19px;
   }
    .single_service > img{
-    max-width: 40px;
+    max-width: 45px;
     margin-bottom: 5px;
    }
   .img_bg{
@@ -996,7 +999,7 @@ button#dropdownMenuButton:active{
   
   .copyright {
     color: #fff;
-    font-size: 16px;
+    font-size: 12px;
   }
   p.footer-links{
     margin-top: 50px;

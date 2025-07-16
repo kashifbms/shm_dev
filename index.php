@@ -18,7 +18,7 @@
 							SINYAR HOSPITALITY
 							<span>Emirati home grown company</span>
 						</h1>
-						<h3 class="">Leading the way to excellence in Hospitality Management.</h3>
+						<h3 class="FranziskaWebW03Light">Leading the way to excellence in Hospitality Management.</h3>
 					</div>
 					
 				</div>
@@ -202,39 +202,39 @@
 							<div class="col-md-12 col-sm-12">
 								<div class="row our_services_wrapper">
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_01.png">
+										<img src="imgs/new/services_icons/services_01.png">
 										<h3>Hospitality Management</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_02.png">
+										<img src="imgs/new/services_icons/services_02.png">
 										<h3>Fine Dining Experiences</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_03.png">
+										<img src="imgs/new/services_icons/services_03.png">
 										<h3>Brand Strategy & Positioning</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_04.png">
+										<img src="imgs/new/services_icons/services_04.png">
 										<h3>Recreation & Wellness</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_05.png">
+										<img src="imgs/new/services_icons/services_05.png">
 										<h3>Performance & Quality Management</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_06.png">
+										<img src="imgs/new/services_icons/services_06.png">
 										<h3>Health & Safety</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_07.png">
+										<img src="imgs/new/services_icons/services_07.png">
 										<h3>Concierge & Lifestyle</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_08.png">
+										<img src="imgs/new/services_icons/services_08.png">
 										<h3>Risk & Compliance</h3>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 single_service">
-										<img src="imgs/new/services_09.png">
+										<img src="imgs/new/services_icons/services_09.png">
 										<h3>Private Events & Celebrations</h3>
 									</div>
 									
@@ -506,8 +506,8 @@
 							<p class="white">
 								P.O. Box: 4983, Abu Dhabi <br />
 								United Arab Emirates <br />
-								Office Phone No. <a href="tel:+9718177777">+971 817 7777</a> <br />
-								Email <a href="mailto:info@sinyarhospitality.ae">info@sinyarhospitality.ae</a>
+								Office Phone No. <a href="tel:+9718177777" class="footer_link_color">+971 817 7777</a> <br />
+								Email <a href="mailto:info@sinyarhospitality.ae" class="footer_link_color">info@sinyarhospitality.ae</a>
 							</p>
 							<p class="map-button"><a class="directionbutton" href="https://maps.app.goo.gl/R4aWt1yxeEqNS7VA6" target="_blank">View Map Location</a></p>
 							

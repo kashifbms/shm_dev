@@ -46,7 +46,7 @@
 				</div>
 
 				<div class="col-md-3 col-xs-1 lang">
-					<a class="white" onclick="window.open('<?php echo ($lang=='en' ? '/ar' : './') ?>','_self');">
+					<a class="" onclick="window.open('<?php echo ($lang=='en' ? '/ar' : './') ?>','_self');">
 						<?php echo ($lang == "ar" ? "English" : "عربى") ?>
 					</a>
 				</div>
@@ -54,7 +54,7 @@
 			<?php } else {	?>
 
 				<div class="col-md-3 col-xs-1 lang ar">
-					<a class="white" onclick="window.open('<?php echo ($lang=='en' ? 'ar' : './') ?>','_self');">
+					<a class="" onclick="window.open('<?php echo ($lang=='en' ? 'ar' : './') ?>','_self');">
 						<?php echo ($lang == "ar" ? "English" : "عربى") ?>
 					</a>
 				</div>
