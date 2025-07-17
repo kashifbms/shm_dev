@@ -506,13 +506,14 @@
 							<p class="white">
 								P.O. Box: 4983, Abu Dhabi <br />
 								United Arab Emirates <br />
-								Office Phone No. <a href="tel:+9718177777" class="footer_link_color">+971 817 7777</a> <br />
+								Office Phone No. <a href="tel:+971 2 817 7777" class="footer_link_color">+971 2 817 7777</a> <br />
 								Email <a href="mailto:info@sinyarhospitality.ae" class="footer_link_color">info@sinyarhospitality.ae</a>
 							</p>
 							<p class="map-button"><a class="directionbutton" href="https://maps.app.goo.gl/R4aWt1yxeEqNS7VA6" target="_blank">View Map Location</a></p>
 							
-							<p class="footer-links">
-								<a href="http://www.sinyarpropertymanagement.ae/" target="_blank" style="color:#ffffff;">Sinyar Property Management</a>
+							
+							<p class="footer-links" style="color:#ffffff;">
+								For Sinyar Property Management, please click <a href="http://www.sinyarpropertymanagement.ae/" target="_blank" style="color:#6dbaff; text-decoration: underline;">here</a>.
 							</p>
 							<p class="copyright">© All Rights Reserved. Sinyar Hospitality 2018-2025.</p>
 						</div>
