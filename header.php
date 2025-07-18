@@ -46,7 +46,7 @@
 				</div>
 
 				<div class="col-md-3 col-xs-1 lang">
-					<a class="" onclick="window.open('<?php echo ($lang=='en' ? '/ar' : './') ?>','_self');">
+					<a style="display: none;" class="" onclick="window.open('<?php echo ($lang=='en' ? '/ar' : './') ?>','_self');">
 						<?php echo ($lang == "ar" ? "English" : "عربى") ?>
 					</a>
 				</div>

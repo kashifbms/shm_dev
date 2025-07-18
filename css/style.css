@@ -454,6 +454,9 @@ button#dropdownMenuButton:active{
     max-width: 45px;
     margin-bottom: 5px;
    }
+   .padding_top_30{
+    padding-top: 30px;
+   }
   .img_bg{
     height: 400px;
     background-repeat: no-repeat;

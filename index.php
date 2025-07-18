@@ -250,8 +250,8 @@
 		</div>
 
 		
-		<div class="section fourth blue_bg dark_bg padding_bottom_0 " id="concept_creation">
-			<div class="container">
+		<div class="section fourth blue_bg dark_bg padding_bottom_0 padding_top_30" id="concept_creation">
+			<div class="container text_align_left">
 				<div class="row">
 					<div class="col-xs-12 col-md-12 ">
 						<h2 class="section-title">CONCEPT CREATION</h2>
