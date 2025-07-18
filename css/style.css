@@ -517,8 +517,8 @@ button#dropdownMenuButton:active{
  * --------------------------------------- */
   
   #section2 {
-    background-image: url(../imgs/graybg.jpg);
-    background-size:cover;
+    background-color: #fbfbfb;
+    
   }
 
   .speciality.desktop {
@@ -705,9 +705,8 @@ button#dropdownMenuButton:active{
 
 /* Section 4 Expertise
  * --------------------------------------- */
-  #section4{
-    background-image: url(../imgs/graybg.jpg);
-    background-size:cover;
+  #section4, #section6, #section8, #culinary_delights{
+    background-color: #fbfbfb;
   }
 
   .content-inner.expectations {

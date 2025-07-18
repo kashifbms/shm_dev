@@ -40,7 +40,7 @@
 				</div>
 
 				<div class="col-md-6 col-xs-8 logo">
-					<a href="#sinyar">
+					<a href="#section0">
 						<img class="logo img-responsive img-fluid" src="imgs/sym_logo.png" />
 					</a>
 				</div>
